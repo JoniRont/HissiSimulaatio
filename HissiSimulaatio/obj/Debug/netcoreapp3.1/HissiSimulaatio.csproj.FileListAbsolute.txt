@@ -1,0 +1,22 @@
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.csprojAssemblyReference.cache
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.AssemblyInfoInputs.cache
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.AssemblyInfo.cs
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.exe
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.deps.json
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.runtimeconfig.json
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.runtimeconfig.dev.json
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.dll
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.pdb
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.dll
+C:\Users\jonir\OneDrive\Työpöytä\Kurssit\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.pdb
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.csprojAssemblyReference.cache
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.AssemblyInfoInputs.cache
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.AssemblyInfo.cs
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.dll
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\obj\Debug\netcoreapp3.1\HissiSimulaatio.pdb
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.exe
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.deps.json
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.runtimeconfig.json
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.runtimeconfig.dev.json
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.dll
+C:\Users\jonir\OneDrive - Satakunnan ammattikorkeakoulu Oy\Työpöytä\Olio-ohjelmointi\ohjelmat\HissiSimulaatio\HissiSimulaatio\bin\Debug\netcoreapp3.1\HissiSimulaatio.pdb
